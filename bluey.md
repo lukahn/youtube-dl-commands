@@ -83,9 +83,18 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH1702Q052S00,"S01E52 - Veran
 ```sh
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q020S00,"S02E01 - Dance Mode"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q017S00,"S02E02 - Hammerbarn"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q016S00,"S02E03 - Featherwand"
+,"S02E04 - Squash"
+,"S02E05 - Hairdressers"
+,"S02E06 - Stumpfest"
+,"S02E07 - Favourite Thing"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q015S00,"S02E08 - Daddy Dropoff"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q018S00,"S02E09 - Bingo"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q007S00,"S02E10 - Rug Island"
-
-https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q004S00,"S02E?? - Sticky Gecko"
+,"S02E11 - Charades"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q004S00,"S02E12 - Sticky Gecko"
+,"S02E13 - Dad Baby"
+,"S02E14 - Mum School"
+,"S02E15 - Trains"
+,"S02E?? - Army"
 ```
