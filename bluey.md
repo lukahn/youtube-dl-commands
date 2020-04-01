@@ -96,7 +96,7 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q004S00,"S02E12 - Stick
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q019S00,"S02E13 - Dad Baby"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q006S00,"S02E14 - Mum School"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q009S00,"S02E15 - Trains"
-,"S02E16 - Army"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q012S00,"S02E16 - Army"
 ,"S02E17 - Fancy Restaurant"
 ,"S02E18 - Piggyback"
 ,"S02E19 - The Show"
@@ -106,4 +106,5 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q009S00,"S02E15 - Train
 ,"S02E23 - Queens"
 ,"S02E24 - Flat Pack"
 ,"S02E25 - Helicopter"
+,"S02E26 - Sleepytime"
 ```
