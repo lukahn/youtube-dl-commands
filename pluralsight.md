@@ -34,7 +34,7 @@ https://www.whatismybrowser.com/detect/what-is-my-user-agent
 ```sh
 course="https://app.pluralsight.com/library/courses/docker-containers-big-picture"
 useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"
-./youtube-dl-ps -v --cookies cookies.txt --user-agent "$useragent" -r 200K -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --sleep-interval 60 --max-sleep-interval 120 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
+./youtube-dl-ps -v --cookies cookies.txt --user-agent "$useragent" -r 20K -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --sleep-interval 60 --max-sleep-interval 120 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
 ```
 
 ### Recommended courses:
