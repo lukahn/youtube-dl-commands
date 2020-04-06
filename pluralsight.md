@@ -27,6 +27,10 @@ Then move this new file (youtube-dl-ps) to wherever you want it.
 Cookies:
 Use something like the following extension to log in and export the cookies for pluralsight.com
 https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg?hl=en
+
+And the following page to get your current user agent (optional):
+https://www.whatismybrowser.com/detect/what-is-my-user-agent
+
 ```sh
 course="https://app.pluralsight.com/library/courses/docker-containers-big-picture"
 useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"
