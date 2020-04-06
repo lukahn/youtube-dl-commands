@@ -29,4 +29,5 @@ youtube-dl -v --username "username" --password "password" -o "%(playlist)s/%(cha
 
 ### Recommended courses:
 https://app.pluralsight.com/library/courses/docker-containers-big-picture
+
 https://app.pluralsight.com/library/courses/python-big-picture
