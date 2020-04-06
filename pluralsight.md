@@ -12,6 +12,17 @@ ffmpeg
 atomicparsley
 ```
 
+### Generate a verysion of youtube-dl with extended wait times
+I believe that line: https://github.com/ytdl-org/youtube-dl/blob/master/youtube_dl/extractor/pluralsight.py#L396 is currently too short and will result in a ban, therefore we'll have to extend it and rebuild the application.
+``` sh
+git clone https://github.com/ytdl-org/youtube-dl.git
+cd youtube-dl
+sed -i 's/random.randint(2, 5)/random.randint(60, 120)/g' youtube_dl/extractor/pluralsight.py
+make youtube-dl
+mv youtube-dl youtube-dl-ps
+```
+Then move this new file (youtube-dl-ps) to wherever you want it.
+
 ### Command:
 Cookies:
 Use something like the following extension to log in and export the cookies for pluralsight.com)
@@ -19,14 +30,7 @@ https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjo
 ```sh
 course="https://app.pluralsight.com/library/courses/docker-containers-big-picture"
 useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"
-youtube-dl -v --cookies cookies.txt --user-agent "$useragent" -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --min-sleep-interval 35 --max-sleep-interval 120 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
-```
-
-Username/Password:
-```sh
-course="https://app.pluralsight.com/library/courses/docker-containers-big-picture"
-useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"
-youtube-dl -v --username "username" --password "password" --user-agent "$useragent" -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --min-sleep-interval 35 --max-sleep-interval 120 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
+./youtube-dl-ps -v --cookies cookies.txt --user-agent "$useragent" -r 200K -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --sleep-interval 60 --max-sleep-interval 120 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
 ```
 
 ### Recommended courses:
