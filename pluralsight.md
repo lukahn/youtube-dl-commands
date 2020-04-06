@@ -25,7 +25,7 @@ Then move this new file (youtube-dl-ps) to wherever you want it.
 
 ### Command:
 Cookies:
-Use something like the following extension to log in and export the cookies for pluralsight.com)
+Use something like the following extension to log in and export the cookies for pluralsight.com
 https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg?hl=en
 ```sh
 course="https://app.pluralsight.com/library/courses/docker-containers-big-picture"
