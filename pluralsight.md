@@ -18,13 +18,15 @@ Use something like the following extension to log in and export the cookies for 
 https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg?hl=en
 ```sh
 course="https://app.pluralsight.com/library/courses/docker-containers-big-picture"
-youtube-dl -v --cookies cookies.txt -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --min-sleep-interval 30 --max-sleep-interval 60 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
+useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"
+youtube-dl -v --cookies cookies.txt --user-agent "$useragent" -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --min-sleep-interval 35 --max-sleep-interval 120 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
 ```
 
 Username/Password:
 ```sh
 course="https://app.pluralsight.com/library/courses/docker-containers-big-picture"
-youtube-dl -v --username "username" --password "password" -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --min-sleep-interval 30 --max-sleep-interval 60 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
+useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"
+youtube-dl -v --username "username" --password "password" --user-agent "$useragent" -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --min-sleep-interval 35 --max-sleep-interval 120 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
 ```
 
 ### Recommended courses:
