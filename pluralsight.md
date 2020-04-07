@@ -28,53 +28,53 @@ youtube-dl -v --cookies cookies.txt --user-agent "$useragent" -r 20K -o "%(playl
 
 ### Recommended courses:
 
-Python (https://app.pluralsight.com/paths/skill/python):\
-Beginner\
-https://app.pluralsight.com/library/courses/python-big-picture\
-https://app.pluralsight.com/library/courses/getting-started-python-core\
+Python (https://app.pluralsight.com/paths/skill/python):<br/>
+Beginner<br/>
+https://app.pluralsight.com/library/courses/python-big-picture<br/>
+https://app.pluralsight.com/library/courses/getting-started-python-core<br/>
 
-Intermediate\
-https://app.pluralsight.com/library/courses/python-beyond-basics\
-https://app.pluralsight.com/library/courses/python-best-practices-code-quality\
-https://app.pluralsight.com/library/courses/managing-python-packages-virtual-environments\
-https://app.pluralsight.com/library/courses/using-unit-testing-python\
+Intermediate<br/>
+https://app.pluralsight.com/library/courses/python-beyond-basics<br/>
+https://app.pluralsight.com/library/courses/python-best-practices-code-quality<br/>
+https://app.pluralsight.com/library/courses/managing-python-packages-virtual-environments<br/>
+https://app.pluralsight.com/library/courses/using-unit-testing-python<br/>
 
-Advanced\
-https://app.pluralsight.com/library/courses/full-stack-web-development-python-web2py\
-https://app.pluralsight.com/library/courses/advanced-python\
-
-
-Managing Containers with Docker (https://app.pluralsight.com/paths/skill/managing-containers-with-docker):\
-Beginner\
-https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture\
-https://app.pluralsight.com/library/courses/docker-getting-started\
-https://app.pluralsight.com/library/courses/docker-swarm-mode-getting-started\
-https://app.pluralsight.com/library/courses/securing-docker-platform\
-https://app.pluralsight.com/library/courses/docker-windows-getting-started\
-
-Intermediate\
-https://app.pluralsight.com/library/courses/docker-networking\
-https://app.pluralsight.com/library/courses/implementing-self-hosted-docker-registry\
-https://app.pluralsight.com/library/courses/securing-docker-container-workloads\
-https://app.pluralsight.com/library/courses/docker-images-managing\
-https://app.pluralsight.com/library/courses/managing-load-balancing-scale-docker-swarm-clusters\
-https://app.pluralsight.com/library/courses/docker-deep-dive-update\
-
-Advanced\
-https://app.pluralsight.com/library/courses/containerizing-software-application-docker\
-https://app.pluralsight.com/library/courses/monitoring-containerized-app-health-docker\
-https://app.pluralsight.com/library/courses/handling-data-stateful-applications-docker\
+Advanced<br/>
+https://app.pluralsight.com/library/courses/full-stack-web-development-python-web2py<br/>
+https://app.pluralsight.com/library/courses/advanced-python<br/>
 
 
-Certified Kubernetes Administrator (https://app.pluralsight.com/paths/certificate/certified-kubernetes-administrator)\
-https://app.pluralsight.com/library/courses/kubernetes-installation-configuration-fundamentals\
-https://app.pluralsight.com/library/courses/managing-kubernetes-api-server-pods\
-https://app.pluralsight.com/library/courses/managing-kubernetes-controllers-deployments\
-https://app.pluralsight.com/library/courses/configuring-managing-kubernetes-storage-scheduling\
-Coming soon: Configuring and Managing Kubernetes Networking, Services and Ingress
+Managing Containers with Docker (https://app.pluralsight.com/paths/skill/managing-containers-with-docker):<br/>
+Beginner<br/>
+https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture<br/>
+https://app.pluralsight.com/library/courses/docker-getting-started<br/>
+https://app.pluralsight.com/library/courses/docker-swarm-mode-getting-started<br/>
+https://app.pluralsight.com/library/courses/securing-docker-platform<br/>
+https://app.pluralsight.com/library/courses/docker-windows-getting-started<br/>
+
+Intermediate<br/>
+https://app.pluralsight.com/library/courses/docker-networking<br/>
+https://app.pluralsight.com/library/courses/implementing-self-hosted-docker-registry<br/>
+https://app.pluralsight.com/library/courses/securing-docker-container-workloads<br/>
+https://app.pluralsight.com/library/courses/docker-images-managing<br/>
+https://app.pluralsight.com/library/courses/managing-load-balancing-scale-docker-swarm-clusters<br/>
+https://app.pluralsight.com/library/courses/docker-deep-dive-update<br/>
+
+Advanced<br/>
+https://app.pluralsight.com/library/courses/containerizing-software-application-docker<br/>
+https://app.pluralsight.com/library/courses/monitoring-containerized-app-health-docker<br/>
+https://app.pluralsight.com/library/courses/handling-data-stateful-applications-docker<br/>
 
 
-Other:\
-https://app.pluralsight.com/library/courses/securing-docker-platform\
-https://app.pluralsight.com/library/courses/ssh-telnet-protocol-deep-dive\
-https://app.pluralsight.com/library/courses/docker-containers-big-picture\
+Certified Kubernetes Administrator (https://app.pluralsight.com/paths/certificate/certified-kubernetes-administrator)<br/>
+https://app.pluralsight.com/library/courses/kubernetes-installation-configuration-fundamentals<br/>
+https://app.pluralsight.com/library/courses/managing-kubernetes-api-server-pods<br/>
+https://app.pluralsight.com/library/courses/managing-kubernetes-controllers-deployments<br/>
+https://app.pluralsight.com/library/courses/configuring-managing-kubernetes-storage-scheduling<br/>
+Coming soon: Configuring and Managing Kubernetes Networking, Services and Ingress<br/>
+
+
+Other:<br/>
+https://app.pluralsight.com/library/courses/securing-docker-platform<br/>
+https://app.pluralsight.com/library/courses/ssh-telnet-protocol-deep-dive<br/>
+https://app.pluralsight.com/library/courses/docker-containers-big-picture<br/>
