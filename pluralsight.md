@@ -29,14 +29,12 @@ youtube-dl -v --cookies cookies.txt --user-agent "$useragent" -r 20K -o "%(playl
 ### Recommended courses:
 https://app.pluralsight.com/library/courses/docker-containers-big-picture
 
-https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture/table-of-contents
+https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture
 
 https://app.pluralsight.com/library/courses/ssh-telnet-protocol-deep-dive
 
 https://app.pluralsight.com/library/courses/securing-docker-platform
 
-
-
 https://app.pluralsight.com/library/courses/python-big-picture
 
-https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents
+https://app.pluralsight.com/library/courses/python-beyond-basics
