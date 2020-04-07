@@ -28,7 +28,7 @@ youtube-dl -v --cookies cookies.txt --user-agent "$useragent" -r 20K -o "%(playl
 
 ### Recommended courses:
 
-## Python (https://app.pluralsight.com/paths/skill/python):<br/>
+#### Python (https://app.pluralsight.com/paths/skill/python):<br/>
 Beginner<br/>
 https://app.pluralsight.com/library/courses/python-big-picture<br/>
 https://app.pluralsight.com/library/courses/getting-started-python-core<br/>
@@ -44,7 +44,7 @@ https://app.pluralsight.com/library/courses/full-stack-web-development-python-we
 https://app.pluralsight.com/library/courses/advanced-python<br/>
 
 
-## Managing Containers with Docker (https://app.pluralsight.com/paths/skill/managing-containers-with-docker):<br/>
+#### Managing Containers with Docker (https://app.pluralsight.com/paths/skill/managing-containers-with-docker):<br/>
 Beginner<br/>
 https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture<br/>
 https://app.pluralsight.com/library/courses/docker-getting-started<br/>
@@ -66,7 +66,7 @@ https://app.pluralsight.com/library/courses/monitoring-containerized-app-health-
 https://app.pluralsight.com/library/courses/handling-data-stateful-applications-docker<br/>
 
 
-## Certified Kubernetes Administrator (https://app.pluralsight.com/paths/certificate/certified-kubernetes-administrator)<br/>
+#### Certified Kubernetes Administrator (https://app.pluralsight.com/paths/certificate/certified-kubernetes-administrator)<br/>
 https://app.pluralsight.com/library/courses/kubernetes-installation-configuration-fundamentals<br/>
 https://app.pluralsight.com/library/courses/managing-kubernetes-api-server-pods<br/>
 https://app.pluralsight.com/library/courses/managing-kubernetes-controllers-deployments<br/>
@@ -74,7 +74,7 @@ https://app.pluralsight.com/library/courses/configuring-managing-kubernetes-stor
 Coming soon: Configuring and Managing Kubernetes Networking, Services and Ingress<br/>
 
 
-## Other:<br/>
+#### Other:<br/>
 https://app.pluralsight.com/library/courses/securing-docker-platform<br/>
 https://app.pluralsight.com/library/courses/ssh-telnet-protocol-deep-dive<br/>
 https://app.pluralsight.com/library/courses/docker-containers-big-picture<br/>
