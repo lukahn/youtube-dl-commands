@@ -102,7 +102,7 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q014S00,"S02E18 - Piggy
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q013S00,"S02E19 - The Show"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q011S00,"S02E20 - Tickle Crabs"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q023S00,"S02E21 - Escape"
-,"S02E22 - Bus"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q024S00,"S02E22 - Bus"
 ,"S02E23 - Queens"
 ,"S02E24 - Flat Pack"
 ,"S02E25 - Helicopter"
