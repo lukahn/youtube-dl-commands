@@ -26,6 +26,17 @@ useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
 youtube-dl -v --cookies cookies.txt --user-agent "$useragent" -r 20K -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --sleep-interval 60 --max-sleep-interval 120 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
 ```
 
+### Generate a version of youtube-dl with extended wait times
+If you're trying to resume a partial download, then it's possible to reach the cap when youtube-dl moves quickly from one already downloaded file to another. In order to avoid that, we can modify the following line to add an extra delay: https://github.com/ytdl-org/youtube-dl/blob/master/youtube_dl/extractor/pluralsight.py#L396 and rebuild the application.
+``` sh
+git clone https://github.com/ytdl-org/youtube-dl.git
+cd youtube-dl
+sed -i 's/random.randint(2, 5)/random.randint(60, 120)/g' youtube_dl/extractor/pluralsight.py
+make youtube-dl
+mv youtube-dl youtube-dl-ps
+```
+Then move this new file (youtube-dl-ps) to wherever you want it, and replace the regular command from youtube-dl to ./youtube-dl-ps
+
 ### Recommended courses:
 
 #### Python (https://app.pluralsight.com/paths/skill/python):<br/>
