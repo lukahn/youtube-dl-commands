@@ -23,7 +23,7 @@ https://www.whatismybrowser.com/detect/what-is-my-user-agent
 ```sh
 course="https://app.pluralsight.com/library/courses/docker-containers-big-picture"
 useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"
-youtube-dl -v --cookies cookies.txt --user-agent "$useragent" -r 20K -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --sleep-interval 60 --max-sleep-interval 120 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
+youtube-dl -v --cookies cookies.txt --user-agent "$useragent" --add-header Referer:"https://app.pluralsight.com/library/courses/" -r 20K -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --sleep-interval 120 --max-sleep-interval 180 --all-subs --embed-subs --add-metadata --embed-thumbnail "$course" --playlist-start 1
 ```
 
 ### Generate a version of youtube-dl with extended wait times
