@@ -104,7 +104,7 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q011S00,"S02E20 - Tickl
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q023S00,"S02E21 - Escape"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q024S00,"S02E22 - Bus"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q022S00,"S02E23 - Queens"
-,"S02E24 - Flat Pack"
-,"S02E25 - Helicopter"
-,"S02E26 - Sleepytime"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q021S00,"S02E24 - Flat Pack"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q025S00,"S02E25 - Helicopter"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q026S00,"S02E26 - Sleepytime"
 ```
