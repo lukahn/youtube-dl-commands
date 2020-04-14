@@ -85,7 +85,35 @@ https://app.pluralsight.com/library/courses/configuring-managing-kubernetes-stor
 Coming soon: Configuring and Managing Kubernetes Networking, Services and Ingress<br/>
 
 
+#### CISSP® (Certified Information Systems Security Professional) (https://app.pluralsight.com/paths/certificate/cisspr-certified-information-systems-security-professional)<br/>
+https://app.pluralsight.com/library/courses/isc2-certification-examination-preparing<br/>
+https://app.pluralsight.com/library/courses/security-management<br/>
+https://app.pluralsight.com/library/courses/information-classification<br/>
+https://app.pluralsight.com/library/courses/security-personnel<br/>
+https://app.pluralsight.com/library/courses/risk-assessment-management<br/>
+https://app.pluralsight.com/library/courses/security-controls-frameworks<br/>
+https://app.pluralsight.com/library/courses/investigations-incident-management<br/>
+https://app.pluralsight.com/library/courses/business-continuity-management<br/>
+https://app.pluralsight.com/library/courses/security-architecture<br/>
+https://app.pluralsight.com/library/courses/security-engineering<br/>
+https://app.pluralsight.com/library/courses/cryptography-application<br/>
+https://app.pluralsight.com/library/courses/physical-security<br/>
+https://app.pluralsight.com/library/courses/communications-network-security<br/>
+https://app.pluralsight.com/library/courses/secure-network-design<br/>
+https://app.pluralsight.com/library/courses/access-control-identity-management<br/>
+https://app.pluralsight.com/library/courses/software-development-security<br/>
+https://app.pluralsight.com/library/courses/security-operations<br/>
+https://app.pluralsight.com/library/courses/security-control-assessment<br/>
+
+
 #### Other:<br/>
 https://app.pluralsight.com/library/courses/securing-docker-platform<br/>
 https://app.pluralsight.com/library/courses/ssh-telnet-protocol-deep-dive<br/>
 https://app.pluralsight.com/library/courses/docker-containers-big-picture<br/>
+
+#### Useful resources:<br/>
+
+https://gist.github.com/ivanskodje/5bd8697a64e9879f397f7ef161cf0956
+https://gist.github.com/jesperorb/c14aef85735c54f479896cfa6f16a1e5
+https://github.com/ytdl-org/youtube-dl/issues/24008
+https://github.com/rojter-tech/pluradl.py/issues/19
