@@ -77,7 +77,7 @@ https://app.pluralsight.com/library/courses/monitoring-containerized-app-health-
 https://app.pluralsight.com/library/courses/handling-data-stateful-applications-docker<br/>
 
 
-#### Certified Kubernetes Administrator (https://app.pluralsight.com/paths/certificate/certified-kubernetes-administrator)<br/>
+#### Certified Kubernetes Administrator (https://app.pluralsight.com/paths/certificate/certified-kubernetes-administrator):<br/>
 https://app.pluralsight.com/library/courses/kubernetes-installation-configuration-fundamentals<br/>
 https://app.pluralsight.com/library/courses/managing-kubernetes-api-server-pods<br/>
 https://app.pluralsight.com/library/courses/managing-kubernetes-controllers-deployments<br/>
@@ -85,7 +85,7 @@ https://app.pluralsight.com/library/courses/configuring-managing-kubernetes-stor
 Coming soon: Configuring and Managing Kubernetes Networking, Services and Ingress<br/>
 
 
-#### CISSP® (Certified Information Systems Security Professional) (https://app.pluralsight.com/paths/certificate/cisspr-certified-information-systems-security-professional)<br/>
+#### CISSP® (Certified Information Systems Security Professional) (https://app.pluralsight.com/paths/certificate/cisspr-certified-information-systems-security-professional):<br/>
 https://app.pluralsight.com/library/courses/isc2-certification-examination-preparing<br/>
 https://app.pluralsight.com/library/courses/security-management<br/>
 https://app.pluralsight.com/library/courses/information-classification<br/>
@@ -106,10 +106,26 @@ https://app.pluralsight.com/library/courses/security-operations<br/>
 https://app.pluralsight.com/library/courses/security-control-assessment<br/>
 
 
+#### Configuration Management using Puppet 4 (https://app.pluralsight.com/paths/skills/puppet-4):<br/>
+Beginner<br/>
+https://app.pluralsight.com/library/courses/puppet-system-administrators-fundamentals<br/>
+
+Intermediate<br/>
+https://app.pluralsight.com/library/courses/puppet-4-language-essentials
+https://app.pluralsight.com/library/courses/puppet-4-working-modules-classes
+https://app.pluralsight.com/library/courses/puppet-4-files-templates
+
+Advanced<br/>
+https://app.pluralsight.com/library/courses/puppet-4-hiera
+https://app.pluralsight.com/library/courses/puppet-4-server-puppet-enterprise
+
+
 #### Other:<br/>
 https://app.pluralsight.com/library/courses/securing-docker-platform<br/>
 https://app.pluralsight.com/library/courses/ssh-telnet-protocol-deep-dive<br/>
 https://app.pluralsight.com/library/courses/docker-containers-big-picture<br/>
+https://app.pluralsight.com/library/courses/getting-started-puppet<br/>
+
 
 #### Useful resources:<br/>
 
