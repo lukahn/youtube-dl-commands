@@ -111,13 +111,24 @@ Beginner<br/>
 https://app.pluralsight.com/library/courses/puppet-system-administrators-fundamentals<br/>
 
 Intermediate<br/>
-https://app.pluralsight.com/library/courses/puppet-4-language-essentials
-https://app.pluralsight.com/library/courses/puppet-4-working-modules-classes
-https://app.pluralsight.com/library/courses/puppet-4-files-templates
+https://app.pluralsight.com/library/courses/puppet-4-language-essentials<br/>
+https://app.pluralsight.com/library/courses/puppet-4-working-modules-classes<br/>
+https://app.pluralsight.com/library/courses/puppet-4-files-templates<br/>
 
 Advanced<br/>
-https://app.pluralsight.com/library/courses/puppet-4-hiera
-https://app.pluralsight.com/library/courses/puppet-4-server-puppet-enterprise
+https://app.pluralsight.com/library/courses/puppet-4-hiera<br/>
+https://app.pluralsight.com/library/courses/puppet-4-server-puppet-enterprise<br/>
+
+
+#### Android Development with Kotlin — App Fundamentals (https://app.pluralsight.com/paths/skill/android-development-with-kotlin-fundamentals):<br/>
+Getting Started<br/>
+https://app.pluralsight.com/library/courses/android-apps-kotlin-build-first-app<br/>
+
+Core Development Skills<br/>
+https://app.pluralsight.com/library/courses/android-apps-kotlin-tools-testing<br/>
+https://app.pluralsight.com/library/courses/android-kotlin-apps-resources-styles-themes<br/>
+https://app.pluralsight.com/library/courses/android-apps-kotlin-recyclerview-navigation-drawer<br/>
+https://app.pluralsight.com/library/courses/android-apps-kotlin-viewmodel-lifecycle<br/>
 
 
 #### Other:<br/>
