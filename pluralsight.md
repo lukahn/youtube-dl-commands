@@ -1,9 +1,75 @@
 ### Pluralsight
-The following command can be used to download courses from Pluralsight for offline viewing .mp4 format, along with the thumbnails from
-the website, subtitles, and descriptions.
 
 It's currently free (April 2020) to register and account, otherwise you're limited to "10 days or 200 minutes of content on Pluralsight's technology learning platform."
 https://www.pluralsight.com/offer/2020/free-april-month
+
+It looks like PluralSight issue a 403 ban after 9-12 videos are downloaded, regardless of speed. They also use an IP ban after 2 banned accounts. The best way to download the videos for offline use is with the official app (which still causes bans after heavy downloading). The steps below are for Windows.
+
+## Steps
+1. Register an account on https://www.pluralsight.com
+2. Make sure that you create a password
+3. Download the official app: https://www.pluralsight.com/product/downloads
+4. Sign in to the app. It may require an update.
+5. Navigate to the course that you're interested in, and press the Download Course button
+6. This will Ask if you want to open the link with the PluralSight app. Select yes, and the files will start downloading
+6.1 Note: You can download up to 40 courses at once (a max of 25 undownloaded videos can be queued up at a time). After this you'll have reached the limit, and will need to remove old courses before you can download new ones.
+7. Download the following decryptor: https://github.com/ajdnik/decrypo/releases
+8. Run the command with the following parameters (note: this was run in powershell, and the decryptor doesn't like spaces in the filename of the output directory):
+.\decrypo.exe -output '.\Course\'
+9. After a few minutes the courses will be decrypted, and can be viewable on all devices.
+
+## Subtitles and Exercise Files
+Note: The steps above don't download subtitles (which youtube-dl does) or Exercise Files (which only pluradl.py does). In order to add these as well, run the following:
+
+### Subtitles:
+Download subtitles using the following:
+```sh
+youtube-dl -v --cookies cookies.txt --user-agent "$useragent" --add-header Referer:"https://app.pluralsight.com/library/courses/" -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --sub-lang en --sub-format srt --skip-download --batch-file courselist.txt
+```
+
+Then rename the files to match the official PluralSight format (change the parent to match your setup):
+```sh
+from os import path, listdir, rename
+from os.path import isfile, join
+parent = "C:\\Users\\<username>\\Documents\\pluralsight"
+directories_level_one = [f for f in listdir(parent) if not isfile(join(parent, f))]
+for directory_one in directories_level_one:
+    parent_one = path.join(parent, directory_one)
+    directories_level_two = [g for g in listdir(parent_one) if not isfile(join(parent_one, g))]
+    for directory_two in directories_level_two:
+        parent_two = path.join(parent_one, directory_two)
+        files_level_three = [h for h in listdir(parent_two) if isfile(join(parent_two, h))]
+        counter = 1
+        for file_three in files_level_three:
+            new_file_three = file_three[file_three.find(' - ') + 3:]
+            new_file_three = str(counter) + '-' + new_file_three.replace(' ', '-')
+            print('Renaming ' + path.join(parent_two, file_three) + ", to " + path.join(parent_two, new_file_three))
+            rename(path.join(parent_two, file_three), path.join(parent_two, new_file_three))
+            counter += 1
+        directory_two_index = directory_two[:directory_two.find(' - ')]
+        new_directory_two = directory_two[directory_two.find(' - ') + 3:]
+        new_directory_two = new_directory_two.replace(' ', '-')
+        new_directory_two = directory_two_index + '-' + new_directory_two
+        print('Renaming ' + path.join(parent_one, directory_two) + ", to " + path.join(parent_one, new_directory_two))
+        rename(path.join(parent_one, directory_two), path.join(parent_one, new_directory_two))
+
+```
+
+Merge the folders, then run the following to embed the subtitles:
+```sh
+find * -type f -name *.srt -exec bash -c "f='{}'; ffmpeg -y -loglevel 'repeat+info' -i 'file:${f%.*.*}.mp4' -i 'file:$f' -map 0 -c copy -map '-0:s' -map '-0:d' '-c:s' mov_text -map '1:0' '-metadata:s:s:0' 'language=eng' 'file:"${f%.*.*}".temp.mp4' " \;
+```
+
+And once you're happy that the files have subtitles embedded, rename the files
+```sh
+find * -type f -name *.temp.mp4 -exec bash -c "f='{}'; mv $f ${f%.*.*}.mp4 " \;
+```
+
+
+
+
+The following command can be used to download courses from Pluralsight for offline viewing .mp4 format, along with the thumbnails from
+the website, subtitles, and descriptions. It has severe limitations though, so it isn't recommended. 
 
 Note: You'll need the following packages:
 ```sh
@@ -130,6 +196,20 @@ https://app.pluralsight.com/library/courses/android-kotlin-apps-resources-styles
 https://app.pluralsight.com/library/courses/android-apps-kotlin-recyclerview-navigation-drawer<br/>
 https://app.pluralsight.com/library/courses/android-apps-kotlin-viewmodel-lifecycle<br/>
 
+
+#### Google: Associate Android Developer (AAD) (https://app.pluralsight.com/paths/skill/google-android-associate-developer-aad):<br/>
+Beginner<br/>
+https://app.pluralsight.com/library/courses/android-application-basics-understanding<br/>
+https://app.pluralsight.com/library/courses/android-tools-testing<br/>
+
+Intermediate<br/>
+https://app.pluralsight.com/library/courses/android-enhancing-application-experience<br/>
+https://app.pluralsight.com/library/courses/android-managing-app-data-sqlite<br/>
+https://app.pluralsight.com/library/courses/android-exposing-data-information-outside-app<br/>
+
+Advanced<br/>
+https://app.pluralsight.com/library/courses/android-leveraging-power-platform<br/>
+https://app.pluralsight.com/library/courses/android-broadening-app-appeal-reach<br/>
 
 #### Other:<br/>
 https://app.pluralsight.com/library/courses/securing-docker-platform<br/>
