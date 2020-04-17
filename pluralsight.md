@@ -11,7 +11,7 @@ It looks like PluralSight issue a 403 ban after 9-12 videos are downloaded, rega
 3. Download the official app: https://www.pluralsight.com/product/downloads
 4. Sign in to the app. It may require an update.
 5. Navigate to the course that you're interested in, and press the Download Course button
-6. This will Ask if you want to open the link with the PluralSight app. Select yes, and the files will start downloading
+6. This will ask if you want to open the link with the PluralSight app. Select yes, and the files will start downloading
 6.1 Note: You can download up to 40 courses at once (a max of 25 undownloaded videos can be queued up at a time). After this you'll have reached the limit, and will need to remove old courses before you can download new ones.
 7. Download the following decryptor: https://github.com/ajdnik/decrypo/releases
 8. Run the command with the following parameters (note: this was run in powershell, and the decryptor doesn't like spaces in the filename of the output directory):
@@ -211,9 +211,25 @@ Advanced<br/>
 https://app.pluralsight.com/library/courses/android-leveraging-power-platform<br/>
 https://app.pluralsight.com/library/courses/android-broadening-app-appeal-reach<br/>
 
+
+#### Protocol deep dives:<br/>
+https://app.pluralsight.com/library/courses/dns-deep-dive<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-arp<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-dhcp<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-eigrp<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-ftp-variants<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-icmp<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-igmp-mld<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-ipsec<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-nat<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-ospf<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-snmp<br/>
+https://app.pluralsight.com/library/courses/protocol-deep-dive-tcp-udp<br/>
+https://app.pluralsight.com/library/courses/ssh-telnet-protocol-deep-dive<br/>
+
+
 #### Other:<br/>
 https://app.pluralsight.com/library/courses/securing-docker-platform<br/>
-https://app.pluralsight.com/library/courses/ssh-telnet-protocol-deep-dive<br/>
 https://app.pluralsight.com/library/courses/docker-containers-big-picture<br/>
 https://app.pluralsight.com/library/courses/getting-started-puppet<br/>
 
