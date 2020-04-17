@@ -212,6 +212,20 @@ https://app.pluralsight.com/library/courses/android-leveraging-power-platform<br
 https://app.pluralsight.com/library/courses/android-broadening-app-appeal-reach<br/>
 
 
+#### Go Core Language (https://www.pluralsight.com/paths/go-core-language):<br/>
+https://www.pluralsight.com/courses/getting-started-with-go<br/>
+https://www.pluralsight.com/courses/go-cli-playbook<br/>
+https://www.pluralsight.com/projects/build-a-temperature-converter-cli-in-go<br/>
+https://www.pluralsight.com/courses/creating-custom-data-types-go<br/>
+https://www.pluralsight.com/projects/build-a-budget-app-cli-in-go<br/>
+https://www.pluralsight.com/courses/advanced-branching-looping-go<br/>
+https://www.pluralsight.com/courses/go-packages-deep-dive<br/>
+https://www.pluralsight.com/courses/deep-dive-go-functions<br/>
+https://www.pluralsight.com/courses/concurrent-programming-go<br/>
+https://www.pluralsight.com/projects/build-a-fifa-world-cup-web-service-in-go<br/>
+https://www.pluralsight.com/courses/go-create-test-applications<br/>
+
+
 #### Protocol deep dives:<br/>
 https://app.pluralsight.com/library/courses/dns-deep-dive<br/>
 https://app.pluralsight.com/library/courses/protocol-deep-dive-arp<br/>
