@@ -240,3 +240,4 @@ https://gist.github.com/ivanskodje/5bd8697a64e9879f397f7ef161cf0956
 https://gist.github.com/jesperorb/c14aef85735c54f479896cfa6f16a1e5
 https://github.com/ytdl-org/youtube-dl/issues/24008
 https://github.com/rojter-tech/pluradl.py/issues/19
+https://github.com/rojter-tech/pluradl.py/blob/master/courselist.txt
