@@ -240,7 +240,6 @@ https://app.pluralsight.com/library/courses/ssh-telnet-protocol-deep-dive<br/>
 
 
 #### Other:<br/>
-https://app.pluralsight.com/library/courses/securing-docker-platform<br/>
 https://app.pluralsight.com/library/courses/docker-containers-big-picture<br/>
 https://app.pluralsight.com/library/courses/getting-started-puppet<br/>
 
