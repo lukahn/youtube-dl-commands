@@ -24,7 +24,7 @@ Note: The steps above don't download subtitles (which youtube-dl does) or Exerci
 ### Subtitles:
 Download subtitles using the following:
 ```sh
-youtube-dl -v --cookies cookies.txt --user-agent "$useragent" --add-header Referer:"https://app.pluralsight.com/library/courses/" -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --sub-lang en --sub-format srt --skip-download --batch-file courselist.txt
+youtube-dl -v --cookies cookies.txt --user-agent "$useragent" --add-header Referer:"https://app.pluralsight.com/library/courses/" -o "%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --sub-lang en --sub-format srt --write-sub --skip-download --batch-file courselist.txt
 ```
 
 Then rename the files to match the official PluralSight format (change the parent to match your setup):
