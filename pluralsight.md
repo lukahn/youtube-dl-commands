@@ -213,17 +213,14 @@ https://app.pluralsight.com/library/courses/android-broadening-app-appeal-reach<
 
 
 #### Go Core Language (https://www.pluralsight.com/paths/go-core-language):<br/>
-https://www.pluralsight.com/courses/getting-started-with-go<br/>
-https://www.pluralsight.com/courses/go-cli-playbook<br/>
-https://www.pluralsight.com/projects/build-a-temperature-converter-cli-in-go<br/>
-https://www.pluralsight.com/courses/creating-custom-data-types-go<br/>
-https://www.pluralsight.com/projects/build-a-budget-app-cli-in-go<br/>
-https://www.pluralsight.com/courses/advanced-branching-looping-go<br/>
-https://www.pluralsight.com/courses/go-packages-deep-dive<br/>
-https://www.pluralsight.com/courses/deep-dive-go-functions<br/>
-https://www.pluralsight.com/courses/concurrent-programming-go<br/>
-https://www.pluralsight.com/projects/build-a-fifa-world-cup-web-service-in-go<br/>
-https://www.pluralsight.com/courses/go-create-test-applications<br/>
+https://www.pluralsight.com/library/courses/getting-started-with-go<br/>
+https://www.pluralsight.com/library/courses/go-cli-playbook<br/>
+https://www.pluralsight.com/library/courses/creating-custom-data-types-go<br/>
+https://www.pluralsight.com/library/courses/advanced-branching-looping-go<br/>
+https://www.pluralsight.com/library/courses/go-packages-deep-dive<br/>
+https://www.pluralsight.com/library/courses/deep-dive-go-functions<br/>
+https://www.pluralsight.com/library/courses/concurrent-programming-go<br/>
+https://www.pluralsight.com/library/courses/go-create-test-applications<br/>
 
 
 #### Protocol deep dives:<br/>
