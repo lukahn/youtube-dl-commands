@@ -3,6 +3,11 @@ The following command can be used to download episodes of Bluey from ABC iView i
 the website, subtitles, and episode descriptions. These episodes can only be downloaded for a time limited period
 however (typically four weeks after initial airing, though there are some exceptions, and they do loop back around again), so check the official page to see what's available.
 
+Note: these were recently re-uploaded in 720p (originally it was 576p), but the video is blurrier, and the colours aren't as crisp.
+
+Note: Episodes "Flat Pack" and "Teasing" were re-worked, replacing instances of "ooga booga" with the more monkey-like "ooh ooh ooh" sounds.
+https://www.abc.net.au/news/2020-08-20/why-abc-removed-two-bluey-episodes-over-racial-connotations/12577024
+
 Note: You'll need the following packages:
 ```sh
 youtube-dl
