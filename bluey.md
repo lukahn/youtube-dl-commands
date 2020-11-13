@@ -129,13 +129,13 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q048S00,"S02E39 - Doubl
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q043S00,"S02E40 - Bad Mood"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q044S00,"S02E41 - Octopus"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q034S00,"S02E42 - Bin Night"
-https://iview.abc.net.au/show/bluey/series/0/video/??,"S02E43 - Muffin Cone"
-https://iview.abc.net.au/show/bluey/series/0/video/??,"S02E44 - Duck Cake"
-https://iview.abc.net.au/show/bluey/series/0/video/??,"S02E45 - Handstand"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q045S00,"S02E43 - Muffin Cone"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q030S00,"S02E44 - Duck Cake"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q028S00,"S02E45 - Handstand"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q050S00,"S02E46 - Road Trip"
-https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q041S00,"S02E?? - Dunny"
-https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q040S00,"S02E?? - Ice Cream"
-https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q035S00,"S02E?? - Typewriter"
-
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q040S00,"S02E47 - Ice Cream"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q041S00,"S02E48 - Dunny"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q035S00,"S02E49 - Typewriter"
+https://iview.abc.net.au/show/bluey/series/0/video/??,"S02E50 - Baby Race"
 
 ```
