@@ -136,6 +136,6 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q050S00,"S02E46 - Road 
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q040S00,"S02E47 - Ice Cream"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q041S00,"S02E48 - Dunny"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q035S00,"S02E49 - Typewriter"
-https://iview.abc.net.au/show/bluey/series/0/video/??,"S02E50 - Baby Race"
-
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q037S00,"S02E50 - Baby Race"
+https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q051S00,"S02E51 - "Christmas Swim""
 ```
