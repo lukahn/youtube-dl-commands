@@ -140,3 +140,21 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q037S00,"S02E50 - Baby 
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q051S00,"S02E51 - Christmas Swim"
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q047S00,"S02E52 - Easter"
 ```
+
+### Season 2:
+```sh
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q003S00,"S03E01 - Perfect"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q001S00,"S03E02 - Bedroom"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q007S00,"S03E03 - Obstacle Course"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q023S00,"S03E04 - Promises"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q011S00,"S03E05 - Omelette"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q005S00,"S03E06 - Born Yesterday"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q024S00,"S03E07 - Mini Bluey"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q002S00,"S03E08 - Unicorse"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q006S00,"S03E09 - Curry Quest"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q022S00,"S03E10 - Magic"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q004S00,"S03E11 - Chest"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q019S00,"S03E12 - Sheep Dog"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q008S00,"S03E13 - Housework"
+
+```
