@@ -141,7 +141,7 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q051S00,"S02E51 - Chris
 https://iview.abc.net.au/show/bluey/series/0/video/CH1903Q047S00,"S02E52 - Easter"
 ```
 
-### Season 2:
+### Season 3:
 ```sh
 https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q003S00,"S03E01 - Perfect"
 https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q001S00,"S03E02 - Bedroom"
