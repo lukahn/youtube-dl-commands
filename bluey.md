@@ -156,4 +156,18 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q022S00,"Bluey (2018) -
 https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q004S00,"Bluey (2018) - S03E11 - Chest"
 https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q019S00,"Bluey (2018) - S03E12 - Sheep Dog"
 https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q008S00,"Bluey (2018) - S03E13 - Housework"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q009S00,"Bluey (2018) - S03E14 - Pass the Parcel"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q021S00,"Bluey (2018) - S03E15 - Explorers"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q013S00,"Bluey (2018) - S03E16 - Phones"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q010S00,"Bluey (2018) - S03E17 - Pavlova"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q026S00,"Bluey (2018) - S03E18 - Rain"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q025S00,"Bluey (2018) - S03E19 - Pizza Girls"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q017S00,"Bluey (2018) - S03E20 - Driving"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q020S00,"Bluey (2018) - S03E21 - Tina"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q018S00,"Bluey (2018) - S03E22 - Whale Watching"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q014S00,"Bluey (2018) - S03E23 - Family Meeting"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q012S00,"Bluey (2018) - S03E24 - Faceytalk"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q016S00,"Bluey (2018) - S03E25 - Ragdoll"
+https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q015S00,"Bluey (2018) - S03E26 - Fairytale"
+
 ```
