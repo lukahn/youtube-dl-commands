@@ -170,4 +170,16 @@ https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q012S00,"Bluey (2018) -
 https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q016S00,"Bluey (2018) - S03E25 - Ragdoll"
 https://iview.abc.net.au/show/bluey/series/0/video/CH2003Q015S00,"Bluey (2018) - S03E26 - Fairytale"
 
+https://iview.abc.net.au/video/CH2003Q031S00,"Bluey (2018) - S03E27 - Musical Statues"
+https://iview.abc.net.au/video/CH2003Q034S00,"Bluey (2018) - S03E28 - Stories"
+https://iview.abc.net.au/video/CH2003Q030S00,"Bluey (2018) - S03E29 - Puppets"
+https://iview.abc.net.au/video/CH2003Q038S00,"Bluey (2018) - S03E30 - Turtleboy"
+https://iview.abc.net.au/video/CH2003Q044S00,"Bluey (2018) - S03E31 - Onesies"
+https://iview.abc.net.au/video/CH2003Q035S00,"Bluey (2018) - S03E32 - Tradies"
+https://iview.abc.net.au/video/CH2003Q028S00,"Bluey (2018) - S03E33 - Granny Mobile"
+https://iview.abc.net.au/video/CH2003Q027S00,"Bluey (2018) - S03E34 - Space"
+https://iview.abc.net.au/video/CH2003Q033S00,"Bluey (2018) - S03E35 - Smoochy Kiss"
+https://iview.abc.net.au/video/CH2003Q045S00,"Bluey (2018) - S03E36 - Dirt"
+https://iview.abc.net.au/video/CH2003Q041S00,"Bluey (2018) - S03E37 - The Decider"
+
 ```
