@@ -197,3 +197,12 @@ https://iview.abc.net.au/video/CH2003Q037S00,"Bluey (2018) - S03E48 - Ghostbaske
 https://iview.abc.net.au/video/CK2003Q001S00,"Bluey (2018) - S03E49 - The Sign"
 
 ```
+
+### Minisodes:
+```
+https://iview.abc.net.au/video/ZW4127A020S00,"Bluey (2018) - S00E43 - Burger Dog"
+https://iview.abc.net.au/video/ZW4127A007S00,"Bluey (2018) - S00E44 - Bingo 3000"
+https://iview.abc.net.au/video/ZW4127A006S00,"Bluey (2018) - S00E46 - Letter"
+https://iview.abc.net.au/video/ZW4127A019S00,"Bluey (2018) - S00E47 - Hungry"
+https://iview.abc.net.au/video/ZW4127A001S00,"Bluey (2018) - S00E49 - Animals"
+```
