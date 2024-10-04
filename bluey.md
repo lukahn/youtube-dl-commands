@@ -10,9 +10,9 @@ https://www.abc.net.au/news/2020-08-20/why-abc-removed-two-bluey-episodes-over-r
 
 Note: You'll need the following packages:
 ```sh
-youtube-dl
+youtube-dl / yt-dlp
 ffmpeg
-atomicparsley
+atomicparsley / mutagen
 ```
 
 ### Command:
@@ -199,10 +199,21 @@ https://iview.abc.net.au/video/CK2003Q001S00,"Bluey (2018) - S03E49 - The Sign"
 ```
 
 ### Minisodes:
+Note: S01E03 (Muffin Unboxing) and S01E06 (Three Pigs) aren't on ABC iView).
 ```
-https://iview.abc.net.au/video/ZW4127A020S00,"Bluey (2018) - S00E43 - Burger Dog"
-https://iview.abc.net.au/video/ZW4127A007S00,"Bluey (2018) - S00E44 - Bingo 3000"
-https://iview.abc.net.au/video/ZW4127A006S00,"Bluey (2018) - S00E46 - Letter"
-https://iview.abc.net.au/video/ZW4127A019S00,"Bluey (2018) - S00E47 - Hungry"
-https://iview.abc.net.au/video/ZW4127A001S00,"Bluey (2018) - S00E49 - Animals"
+https://iview.abc.net.au/video/ZW4127A020S00,"Bluey Minisodes - S01E01 - Burger Dog"
+https://iview.abc.net.au/video/ZW4127A007S00,"Bluey Minisodes - S01E02 - Bingo 3000"
+
+https://iview.abc.net.au/video/ZW4127A006S00,"Bluey Minisodes - S01E04 - Letter"
+https://iview.abc.net.au/video/ZW4127A019S00,"Bluey Minisodes - S01E05 - Hungry"
+
+https://iview.abc.net.au/video/ZW4127A001S00,"Bluey Minisodes - S01E07 - Animals"
+
+https://iview.abc.net.au/video/ZW4127A013S00,"Bluey Minisodes - S01E?? - Whirlpool"
+https://iview.abc.net.au/video/ZW4127A018S00,"Bluey Minisodes - S01E?? - Browny Bear"
+https://iview.abc.net.au/video/ZW4127A005S00,"Bluey Minisodes - S01E?? - Drums"
+https://iview.abc.net.au/video/ZW4127A014S00,"Bluey Minisodes - S01E?? - Government"
+https://iview.abc.net.au/video/ZW4127A002S00,"Bluey Minisodes - S01E?? - Blocks"
+https://iview.abc.net.au/video/ZW4127A003S00,"Bluey Minisodes - S01E?? - Phoney"
+https://iview.abc.net.au/video/ZW4127A011S00,"Bluey Minisodes - S01E?? - Tattoo Shop"
 ```
